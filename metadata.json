@@ -1,0 +1,8 @@
+{
+  "name": "Remix Thầy Phan Trợ Lý Quản Lý Học Sinh lớp 2/7",
+  "description": "Hệ thống trợ lý quản lý học tập thông minh dành cho giáo viên tiểu học theo dõi 30 học sinh, phát hiện bài chưa hoàn thành, chấm bài với AI và cảnh báo tự động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
